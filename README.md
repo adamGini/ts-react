@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+###cli command:  
+npx create-react-app . --template typescript
+
+note the . specifying that the app should be created in the current directory
 
 ## Available Scripts
 
